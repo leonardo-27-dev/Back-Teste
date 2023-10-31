@@ -23,7 +23,7 @@ https://nodejs.org/en/download
 Apos isso devemos clonar o respositorio
 
 ```bash
-$ git clone git@github.com:ant-design/ant-design.git
+$ git clone https://github.com/leonardo-27-dev/Back-Teste.git
 $ cd back-teste     
 $ npm install
 $ php artisan serve
